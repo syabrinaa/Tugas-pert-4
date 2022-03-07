@@ -1,0 +1,8 @@
+D:\semester 4\pemograman visual\tugaspv\tugaspv\bin\Debug\tugaspv.exe.config
+D:\semester 4\pemograman visual\tugaspv\tugaspv\bin\Debug\tugaspv.exe
+D:\semester 4\pemograman visual\tugaspv\tugaspv\bin\Debug\tugaspv.pdb
+D:\semester 4\pemograman visual\tugaspv\tugaspv\obj\Debug\tugaspv.csprojResolveAssemblyReference.cache
+D:\semester 4\pemograman visual\tugaspv\tugaspv\obj\Debug\tugaspv.MainForm.resources
+D:\semester 4\pemograman visual\tugaspv\tugaspv\obj\Debug\tugaspv.csproj.GenerateResource.Cache
+D:\semester 4\pemograman visual\tugaspv\tugaspv\obj\Debug\tugaspv.exe
+D:\semester 4\pemograman visual\tugaspv\tugaspv\obj\Debug\tugaspv.pdb
